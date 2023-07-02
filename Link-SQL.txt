@@ -1,0 +1,25 @@
+Structured Query Language (SQL)
+1. SQL-Setup PostgresSQL https://www.youtube.com/watch?v=F2OHWE95sMo
+2. SQL-Basic Command https://www.youtube.com/watch?v=r2Kj7ddYXtw
+3. SQL-Subquery https://www.youtube.com/watch?v=JPCMo9_fHRw
+4. SQL-Join&Union https://www.youtube.com/watch?v=SWvTuZB5Xng
+5. SQL-Data Sorting https://www.youtube.com/watch?v=UH_wNXkK8IY
+6. SQL-Function&Agregate Function https://www.youtube.com/watch?v=5dMJ4muKQGA
+7. SQL-Wildcard https://www.youtube.com/watch?v=BEWy_1vJzIo
+8. SQL-Case&Aliases https://www.youtube.com/watch?v=LU6_dutMH3Q
+9. SQL-Latihan Materi
+	-SQL-Latihan Materi 1
+		+Latihan Materi 1 https://www.youtube.com/watch?v=Wn8HoLAxsJo&t=2s
+		+Pembahasan Latihan Materi 1 https://www.youtube.com/watch?v=DU_DH9D08xk
+	-SQL-Latihan Materi 2
+		+Latihan Materi 2 https://www.youtube.com/watch?v=nxis1zegAEg
+		+Pembahasan Latihan Materi 2 https://www.youtube.com/watch?v=4uuafpTuMNg
+	-SQL-Latihan Materi 3
+		+Latihan Materi 3 https://www.youtube.com/watch?v=fp57xzZtnXw
+		+Pembahasan Latihan Materi 3 https://www.youtube.com/watch?v=7tgVvW4N6sY
+	-SQL-Latihan Materi 4
+		+Latihan Materi 4 https://www.youtube.com/watch?v=1V8Z6XkXab0
+		+Pembahasan Latihan Materi 4 https://www.youtube.com/watch?v=clu54mkrS5w
+	-SQL-Latihan Materi 5
+		+Latihan Materi 5 https://www.youtube.com/watch?v=vkP6pbY9eCk
+		+Pembahasan Latihan Materi 5 https://www.youtube.com/watch?v=eQtiPKY_t5c&t=1s
